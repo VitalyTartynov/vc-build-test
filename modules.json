@@ -1,5 +1,37 @@
 [
   {
+    "Id": "VirtoCommerce.Core",
+    "Title": "Core module",
+    "Description": "NONE",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Tags": null,
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.222.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.218.0",
+        "PackageUrl": "https://someurl/VirtoCommerce.Core_3.222.0.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
+  },
+  {
     "Id": "VirtoCommerce.Inventory",
     "Title": "Inventory module",
     "Description": "NONE",
@@ -21,10 +53,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.210.0",
+        "Version": "3.333.0",
         "VersionTag": "",
         "PlatformVersion": "3.218.0",
-        "PackageUrl": "https://someurl/VirtoCommerce.Core_3.206.0.zip",
+        "PackageUrl": "https://someurl/VirtoCommerce.Inventory_3.333.0.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
